@@ -3,9 +3,8 @@ import webbrowser
 class Movie():
     
        """This class provides a way to store movie related information """ 
-         
-      
-       
+        
+#argumens are passed in init function like title, story, poster and trailer.
 
        def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):         
       
